@@ -1,0 +1,6 @@
+.history/
+.idea/
+.env
+.data/
+.docker-sync/
+symfony/
